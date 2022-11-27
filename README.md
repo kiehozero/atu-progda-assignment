@@ -1,4 +1,5 @@
-# atu-progda-assignment
+# Programming for Data Analysis Assignment
+
 A repository for the dataset synthesis project in ATU Programming for Data Analytics 2022
 
 - notes from video
