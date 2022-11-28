@@ -1,0 +1,154 @@
+﻿Start Date,Host,Toss,Choice,Team ,1st Inns,Result,Ground ,Declaration
+27/11/1970,Australia,Australia,,Australia ,433,draw ,Brisbane ,FALSE
+11/12/1970,Australia,Australia,,England ,397,draw ,Perth ,FALSE
+09/01/1971,Australia,England,,England ,332,won ,Sydney ,FALSE
+21/01/1971,Australia,Australia,,Australia ,493,draw ,Melbourne ,TRUE
+29/01/1971,Australia,England,,England ,470,draw ,Adelaide ,FALSE
+12/02/1971,Australia,Australia,,England ,184,won ,Sydney ,FALSE
+08/06/1972,England ,England,,England ,249,won ,Manchester ,FALSE
+22/06/1972,England ,England,,England ,272,lost ,Lord's ,FALSE
+13/07/1972,England ,England,,Australia ,315,draw ,Nottingham ,FALSE
+27/07/1972,England ,Australia,,Australia ,146,lost ,Leeds ,FALSE
+10/08/1972,England ,England,,England ,284,lost ,The Oval ,FALSE
+29/11/1974,Australia,Australia,,Australia ,309,won ,Brisbane ,FALSE
+13/12/1974,Australia,Australia,,England ,208,lost ,Perth ,FALSE
+26/12/1974,Australia,Australia,,England ,242,draw ,Melbourne ,FALSE
+04/01/1975,Australia,Australia,,Australia ,405,won ,Sydney ,FALSE
+25/01/1975,Australia,England,,Australia ,304,won ,Adelaide ,FALSE
+08/02/1975,Australia,Australia,,Australia ,152,lost ,Melbourne ,FALSE
+10/07/1975,England ,England,,Australia ,359,won ,Birmingham ,FALSE
+31/07/1975,England ,England,,England ,315,draw ,Lord's ,FALSE
+14/08/1975,England ,England,,England ,288,draw ,Leeds ,FALSE
+28/08/1975,England ,Australia,,Australia ,532,draw ,The Oval ,TRUE
+12/03/1977,Australia,England,,Australia ,138,won ,Melbourne ,FALSE
+16/06/1977,England ,England,,England ,216,draw ,Lord's ,FALSE
+07/07/1977,England ,Australia,,Australia ,297,lost ,Manchester ,FALSE
+28/07/1977,England ,Australia,,Australia ,243,lost ,Nottingham ,FALSE
+11/08/1977,England ,England,,England ,436,won ,Leeds ,FALSE
+25/08/1977,England ,Australia,,England ,214,draw ,The Oval ,FALSE
+01/12/1978,Australia,Australia,,Australia ,116,lost ,Brisbane ,FALSE
+15/12/1978,Australia,Australia,,England ,309,won ,Perth ,FALSE
+29/12/1978,Australia,Australia,,Australia ,258,won ,Melbourne ,FALSE
+06/01/1979,Australia,England,,England ,152,won ,Sydney ,FALSE
+27/01/1979,Australia,Australia,,England ,169,won ,Adelaide ,FALSE
+10/02/1979,Australia,Australia,,Australia ,198,lost ,Sydney ,FALSE
+14/12/1979,Australia,England,,Australia ,244,won ,Perth ,FALSE
+04/01/1980,Australia,Australia,,England ,123,lost ,Sydney ,FALSE
+01/02/1980,Australia,England,,England ,306,lost ,Melbourne ,FALSE
+28/08/1980,England ,Australia,,Australia ,385,draw ,Lord's ,TRUE
+18/06/1981,England ,Australia,,England ,185,lost ,Nottingham ,FALSE
+02/07/1981,England ,Australia,,England ,311,draw ,Lord's ,FALSE
+16/07/1981,England ,Australia,,Australia ,401,lost ,Leeds ,TRUE
+30/07/1981,England ,England,,England ,189,won ,Birmingham ,FALSE
+13/08/1981,England ,England,,England ,231,won ,Manchester ,FALSE
+27/08/1981,England ,England,,Australia ,352,draw ,The Oval ,FALSE
+12/11/1982,Australia,Australia,,England ,411,draw ,Perth ,FALSE
+26/11/1982,Australia,Australia,,England ,219,lost ,Brisbane ,FALSE
+10/12/1982,Australia,England,,Australia ,438,won ,Adelaide ,FALSE
+26/12/1982,Australia,Australia,,England ,284,won ,Melbourne ,FALSE
+02/01/1983,Australia,Australia,,Australia ,314,draw ,Sydney ,FALSE
+13/06/1985,England ,Australia,,Australia ,331,lost ,Leeds ,FALSE
+27/06/1985,England ,Australia,,England ,290,lost ,Lord's ,FALSE
+11/07/1985,England ,England,,England ,456,draw ,Nottingham ,FALSE
+01/08/1985,England ,England,,Australia ,257,draw ,Manchester ,FALSE
+15/08/1985,England ,England,,Australia ,335,lost ,Birmingham ,FALSE
+29/08/1985,England ,England,,England ,464,won ,The Oval ,FALSE
+14/11/1986,Australia,Australia,,England ,456,won ,Brisbane ,FALSE
+28/11/1986,Australia,England,,England ,592,draw ,Perth ,TRUE
+12/12/1986,Australia,Australia,,Australia ,514,draw ,Adelaide ,TRUE
+26/12/1986,Australia,England,,Australia ,141,lost ,Melbourne ,FALSE
+10/01/1987,Australia,Australia,,Australia ,343,won ,Sydney ,FALSE
+29/01/1988,Australia,England,,England ,425,draw ,Sydney ,FALSE
+08/06/1989,England ,England,,Australia ,601,won ,Leeds ,TRUE
+22/06/1989,England ,England,,England ,286,lost ,Lord's ,FALSE
+06/07/1989,England ,Australia,,Australia ,424,draw ,Birmingham ,FALSE
+27/07/1989,England ,England,,England ,260,lost ,Manchester ,FALSE
+10/08/1989,England ,Australia,,Australia ,602,won ,Nottingham ,TRUE
+24/08/1989,England ,Australia,,Australia ,468,draw ,The Oval ,FALSE
+23/11/1990,Australia,Australia,,England ,194,lost ,Brisbane ,FALSE
+26/12/1990,Australia,England,,England ,352,lost ,Melbourne ,FALSE
+04/01/1991,Australia,Australia,,Australia ,518,draw ,Sydney ,FALSE
+25/01/1991,Australia,Australia,,Australia ,386,draw ,Adelaide ,FALSE
+01/02/1991,Australia,England,,England ,244,lost ,Perth ,FALSE
+03/06/1993,England ,England,,Australia ,289,won ,Manchester ,FALSE
+17/06/1993,England ,Australia,,Australia ,632,won ,Lord's ,TRUE
+01/07/1993,England ,England,,England ,321,draw ,Nottingham ,FALSE
+22/07/1993,England ,Australia,,Australia ,653,won ,Leeds ,TRUE
+05/08/1993,England ,England,,England ,276,lost ,Birmingham ,FALSE
+19/08/1993,England ,England,,England ,380,won ,The Oval ,FALSE
+25/11/1994,Australia,Australia,,Australia ,426,won ,Brisbane ,FALSE
+24/12/1994,Australia,England,,Australia ,279,won ,Melbourne ,FALSE
+01/01/1995,Australia,England,,England ,309,draw ,Sydney ,FALSE
+26/01/1995,Australia,England,,England ,353,won ,Adelaide ,FALSE
+03/02/1995,Australia,Australia,,Australia ,402,won ,Perth ,FALSE
+05/06/1997,England ,Australia,,Australia ,118,lost ,Birmingham ,FALSE
+19/06/1997,England ,Australia,,England ,77,draw ,Lord's ,FALSE
+03/07/1997,England ,Australia,,Australia ,235,won ,Manchester ,FALSE
+24/07/1997,England ,Australia,,England ,172,lost ,Leeds ,FALSE
+07/08/1997,England ,Australia,,Australia ,427,won ,Nottingham ,FALSE
+21/08/1997,England ,England,,England ,180,won ,The Oval ,FALSE
+20/11/1998,Australia,Australia,,Australia ,485,draw ,Brisbane ,FALSE
+28/11/1998,Australia,Australia,,England ,112,lost ,Perth ,FALSE
+11/12/1998,Australia,Australia,,Australia ,391,won ,Adelaide ,FALSE
+26/12/1998,Australia,Australia,,England ,270,won ,Melbourne ,FALSE
+02/01/1999,Australia,Australia,,Australia ,322,won ,Sydney ,FALSE
+05/07/2001,England ,Australia,,England ,294,lost ,Birmingham ,FALSE
+19/07/2001,England ,Australia,,England ,187,lost ,Lord's ,FALSE
+02/08/2001,England ,England,,England ,185,lost ,Nottingham ,FALSE
+16/08/2001,England ,Australia,,Australia ,447,lost ,Leeds ,FALSE
+23/08/2001,England ,Australia,,Australia ,641,won ,The Oval ,TRUE
+07/11/2002,Australia,England,,Australia ,492,won ,Brisbane ,FALSE
+21/11/2002,Australia,England,,England ,342,lost ,Adelaide ,FALSE
+29/11/2002,Australia,England,,England ,185,lost ,Perth ,FALSE
+26/12/2002,Australia,Australia,,Australia ,551,won ,Melbourne ,TRUE
+02/01/2003,Australia,England,,England ,362,won ,Sydney ,FALSE
+21/07/2005,England ,Australia,,Australia ,190,won ,Lord's ,FALSE
+04/08/2005,England ,Australia,,England ,407,won ,Birmingham ,FALSE
+11/08/2005,England ,England,,England ,444,draw ,Manchester ,FALSE
+25/08/2005,England ,England,,England ,477,won ,Nottingham ,FALSE
+08/09/2005,England ,England,,England ,373,draw ,The Oval ,FALSE
+23/11/2006,Australia,Australia,,Australia ,602,won ,Brisbane ,TRUE
+01/12/2006,Australia,England,,England ,551,lost ,Adelaide ,TRUE
+14/12/2006,Australia,Australia,,Australia ,244,won ,Perth ,FALSE
+26/12/2006,Australia,England,,England ,159,lost ,Melbourne ,FALSE
+02/01/2007,Australia,England,,England ,291,lost ,Sydney ,FALSE
+08/07/2009,England ,England,,England ,435,draw ,Cardiff ,FALSE
+16/07/2009,England ,England,,England ,425,won ,Lord's ,FALSE
+30/07/2009,England ,Australia,,Australia ,263,draw ,Birmingham ,FALSE
+07/08/2009,England ,England,,England ,102,lost ,Leeds ,FALSE
+20/08/2009,England ,England,,England ,332,won ,The Oval ,FALSE
+25/11/2010,Australia,England,,England ,260,draw ,Brisbane ,FALSE
+03/12/2010,Australia,Australia,,Australia ,245,lost ,Adelaide ,FALSE
+16/12/2010,Australia,England,,Australia ,268,won ,Perth ,FALSE
+26/12/2010,Australia,England,,Australia ,98,lost ,Melbourne ,FALSE
+03/01/2011,Australia,Australia,,Australia ,280,lost ,Sydney ,FALSE
+10/07/2013,England ,England,,England ,215,won ,Nottingham ,FALSE
+18/07/2013,England ,England,,England ,361,won ,Lord's ,FALSE
+01/08/2013,England ,Australia,,Australia ,527,draw ,Manchester ,TRUE
+09/08/2013,England ,England,,England ,238,won ,Chester-le-Street ,FALSE
+21/08/2013,England ,Australia,,Australia ,492,draw ,The Oval ,TRUE
+21/11/2013,Australia,Australia,,Australia ,295,won ,Brisbane ,FALSE
+05/12/2013,Australia,Australia,,Australia ,570,won ,Adelaide ,TRUE
+13/12/2013,Australia,Australia,,Australia ,385,won ,Perth ,FALSE
+26/12/2013,Australia,Australia,,England ,255,lost ,Melbourne ,FALSE
+03/01/2014,Australia,England,,Australia ,326,won ,Sydney ,FALSE
+08/07/2015,England ,England,,England ,430,won ,Cardiff ,FALSE
+16/07/2015,England ,Australia,,Australia ,566,won ,Lord's ,TRUE
+29/07/2015,England ,Australia,,Australia ,136,lost ,Birmingham ,FALSE
+06/08/2015,England ,England,,Australia ,60,lost ,Nottingham ,FALSE
+20/08/2015,England ,England,,Australia ,481,won ,The Oval ,FALSE
+23/11/2017,Australia,England,,England ,302,lost ,Brisbane ,FALSE
+02/12/2017,Australia,England,,Australia ,442,won ,Adelaide ,TRUE
+14/12/2017,Australia,England,,England ,403,lost ,Perth ,FALSE
+26/12/2017,Australia,Australia,,Australia ,327,draw ,Melbourne ,FALSE
+04/01/2018,Australia,England,,England ,346,lost ,Sydney ,FALSE
+01/08/2019,England ,Australia,,Australia ,284,won ,Birmingham ,FALSE
+14/08/2019,England ,Australia,,England ,258,draw ,Lord's ,FALSE
+22/08/2019,England ,England,,Australia ,179,lost ,Leeds ,FALSE
+04/09/2019,England ,Australia,,Australia ,497,won ,Manchester ,TRUE
+12/09/2019,England ,Australia,,England ,294,won ,The Oval ,FALSE
+08/12/2021,Australia,England,,England ,147,lost ,Brisbane ,FALSE
+16/12/2021,Australia,Australia,,Australia ,473,won ,Adelaide ,TRUE
+26/12/2021,Australia,Australia,,England ,185,lost ,Melbourne ,FALSE
+05/01/2022,Australia,Australia,,Australia ,416,draw ,Sydney ,TRUE
+14/01/2022,Australia,England,,Australia ,303,won ,Hobart ,FALSE
