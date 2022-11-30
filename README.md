@@ -18,7 +18,6 @@ Specifically, in this project you should:
 
 Note that this project is about simulation - you must synthesise a dataset. Some students may already have some real-world datasets in their own files. It is okay to base your synthesised dataset on these should you wish (please reference it if you do), but the main task is in this project is to create a synthesised dataset."
 
-
 ## References
 
 Leamon, N. and Jones, B. (2021) _Hitting Against the Spin: How Cricket Really Works_. London: Little, Brown Book Group.
@@ -27,7 +26,7 @@ Marylebone Cricket Club (2022) _The Laws of Cricket_. Available at  [MCC](https:
 [NumPy documentation](https://numpy.org/doc/stable/reference/random/generator.html)
 \
 [Wikipedia](https://en.wikipedia.org/wiki/Probability_distribution#External_links) - change to whichever you use
-\
+
 ## Queries
 
 [Innings](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;host=1;host=2;opposition=1;opposition=2;orderby=start;size=200;spanmin1=1+Jan+1970;spanval1=span;team=1;team=2;template=results;tournament_type=2;type=team;view=innings)

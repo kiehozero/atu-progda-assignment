@@ -1,154 +1,154 @@
-﻿start,host,ground,team,toss,choice,inn1,inn2,inn3,inn4,result
-27/11/1970,Australia,Brisbane,Australia,Australia,Bat,433,464,214,39,draw
-11/12/1970,Australia,Perth,England,Australia,Field,397,440,287,100,draw
-09/01/1971,Australia,Sydney,England,England,Bat,332,236,319,116,England
-21/01/1971,Australia,Melbourne,Australia,Australia,Bat,493,392,169,161,draw
-29/01/1971,Australia,Adelaide,England,England,Bat,470,235,233,328,draw
-12/02/1971,Australia,Sydney,England,Australia,Field,184,264,302,160,England
-08/06/1972,England,Old Trafford,England,England,Bat,249,142,234,252,England
-22/06/1972,England,Lord's,England,England,Bat,272,308,116,81,Australia
-13/07/1972,England,Trent Bridge,Australia,England,Field,315,189,324,290,draw
-27/07/1972,England,Headingley,Australia,Australia,Bat,146,263,136,21,England
-10/08/1972,England,The Oval,England,England,Bat,284,399,356,242,Australia
-29/11/1974,Australia,Brisbane,Australia,Australia,Bat,309,265,288,166,Australia
-13/12/1974,Australia,Perth,England,Australia,Field,208,481,293,23,Australia
-26/12/1974,Australia,Melbourne,England,Australia,Field,242,241,244,238,draw
-04/01/1975,Australia,Sydney,Australia,Australia,Bat,405,295,289,228,Australia
-25/01/1975,Australia,Adelaide,Australia,England,Field,304,172,272,241,Australia
-08/02/1975,Australia,Melbourne,Australia,Australia,Bat,152,529,373,0,England
-10/07/1975,England,Edgbaston,Australia,England,Field,359,101,173,0,Australia
-31/07/1975,England,Lord's,England,England,Bat,315,268,436,329,draw
-14/08/1975,England,Headingley,England,England,Bat,288,135,291,220,draw
-28/08/1975,England,The Oval,Australia,Australia,Bat,532,191,538,40,draw
-12/03/1977,Australia,Melbourne,Australia,England,Field,138,95,419,417,Australia
-16/06/1977,England,Lord's,England,England,Bat,216,296,305,114,draw
-07/07/1977,England,Old Trafford,Australia,Australia,Bat,297,437,218,82,England
-28/07/1977,England,Trent Bridge,Australia,Australia,Bat,243,364,309,189,England
-11/08/1977,England,Headingley,England,England,Bat,436,103,248,0,England
-25/08/1977,England,The Oval,England,Australia,Field,214,385,57,0,draw
-01/12/1978,Australia,Brisbane,Australia,Australia,Bat,116,286,339,170,England
-15/12/1978,Australia,Perth,England,Australia,Field,309,190,208,161,England
-29/12/1978,Australia,Melbourne,Australia,Australia,Bat,258,143,167,179,Australia
-06/01/1979,Australia,Sydney,England,England,Bat,152,294,346,111,England
-27/01/1979,Australia,Adelaide,England,Australia,Field,169,164,360,160,England
-10/02/1979,Australia,Sydney,Australia,Australia,Bat,198,308,143,35,England
-14/12/1979,Australia,Perth,Australia,England,Field,244,228,337,215,Australia
-04/01/1980,Australia,Sydney,England,Australia,Field,123,145,237,219,Australia
-01/02/1980,Australia,Melbourne,England,England,Bat,306,477,273,103,Australia
-28/08/1980,England,Lord's,Australia,Australia,Bat,385,205,189,344,draw
-18/06/1981,England,Trent Bridge,England,Australia,Field,185,179,125,132,Australia
-02/07/1981,England,Lord's,England,Australia,Field,311,345,265,90,draw
-16/07/1981,England,Headingley,Australia,Australia,Bat,401,174,356,111,England
-30/07/1981,England,Edgbaston,England,England,Bat,189,258,219,121,England
-13/08/1981,England,Old Trafford,England,England,Bat,231,130,404,402,England
-27/08/1981,England,The Oval,Australia,England,Field,352,314,344,261,draw
-12/11/1982,Australia,Perth,England,Australia,Field,411,424,358,73,draw
-26/11/1982,Australia,Brisbane,England,Australia,Field,219,341,309,190,Australia
-10/12/1982,Australia,Adelaide,Australia,England,Field,438,216,304,83,Australia
-26/12/1982,Australia,Melbourne,England,Australia,Field,284,287,294,288,England
-02/01/1983,Australia,Sydney,Australia,Australia,Bat,314,237,382,314,draw
-13/06/1985,England,Headingley,Australia,Australia,Bat,331,533,324,123,England
-27/06/1985,England,Lord's,England,Australia,Field,290,425,261,127,Australia
-11/07/1985,England,Trent Bridge,England,England,Bat,456,539,196,0,draw
-01/08/1985,England,Old Trafford,Australia,England,Field,257,482,340,0,draw
-15/08/1985,England,Edgbaston,Australia,England,Field,335,595,142,0,England
-29/08/1985,England,The Oval,England,England,Bat,464,241,129,0,England
-14/11/1986,Australia,Brisbane,England,Australia,Field,456,248,282,77,England
-28/11/1986,Australia,Perth,England,England,Bat,592,401,199,197,draw
-12/12/1986,Australia,Adelaide,Australia,Australia,Bat,514,455,201,39,draw
-26/12/1986,Australia,Melbourne,Australia,England,Field,141,349,194,0,England
-10/01/1987,Australia,Sydney,Australia,Australia,Bat,343,275,251,264,Australia
-29/01/1988,Australia,Sydney,England,England,Bat,425,214,328,0,draw
-08/06/1989,England,Headingley,Australia,England,Field,601,430,230,191,Australia
-22/06/1989,England,Lord's,England,England,Bat,286,528,359,119,Australia
-06/07/1989,England,Edgbaston,Australia,Australia,Bat,424,242,158,0,draw
-27/07/1989,England,Old Trafford,England,England,Bat,260,447,264,81,Australia
-10/08/1989,England,Trent Bridge,Australia,Australia,Bat,602,255,167,468,Australia
-24/08/1989,England,The Oval,Australia,Australia,Bat,468,285,219,143,draw
-23/11/1990,Australia,Brisbane,England,Australia,Field,194,152,114,157,Australia
-26/12/1990,Australia,Melbourne,England,England,Bat,352,306,150,197,Australia
-04/01/1991,Australia,Sydney,Australia,Australia,Bat,518,469,205,113,draw
-25/01/1991,Australia,Adelaide,Australia,Australia,Bat,386,229,314,335,draw
-01/02/1991,Australia,Perth,England,England,Bat,244,307,182,120,Australia
-03/06/1993,England,Old Trafford,Australia,England,Field,289,210,432,332,Australia
-17/06/1993,England,Lord's,Australia,Australia,Bat,632,205,365,0,Australia
-01/07/1993,England,Trent Bridge,England,England,Bat,321,373,422,202,draw
-22/07/1993,England,Headingley,Australia,Australia,Bat,653,200,305,0,Australia
-05/08/1993,England,Edgbaston,England,England,Bat,276,408,251,120,Australia
-19/08/1993,England,The Oval,England,England,Bat,380,303,313,229,England
-25/11/1994,Australia,Brisbane,Australia,Australia,Bat,426,167,248,323,Australia
-24/12/1994,Australia,Melbourne,Australia,England,Field,279,212,320,92,Australia
-01/01/1995,Australia,Sydney,England,England,Bat,309,116,255,344,draw
-26/01/1995,Australia,Adelaide,England,England,Bat,353,419,328,156,England
-03/02/1995,Australia,Perth,Australia,Australia,Bat,402,295,345,123,Australia
-05/06/1997,England,Edgbaston,Australia,Australia,Bat,118,478,477,119,England
-19/06/1997,England,Lord's,England,Australia,Field,77,213,266,0,draw
-03/07/1997,England,Old Trafford,Australia,Australia,Bat,235,162,395,200,Australia
-24/07/1997,England,Headingley,England,Australia,Field,172,501,268,0,Australia
-07/08/1997,England,Trent Bridge,Australia,Australia,Bat,427,313,336,186,Australia
-21/08/1997,England,The Oval,England,England,Bat,180,220,163,104,England
-20/11/1998,Australia,Brisbane,Australia,Australia,Bat,485,375,237,179,draw
-28/11/1998,Australia,Perth,England,Australia,Field,112,240,191,64,Australia
-11/12/1998,Australia,Adelaide,Australia,Australia,Bat,391,227,278,237,Australia
-26/12/1998,Australia,Melbourne,England,Australia,Field,270,340,244,162,England
-02/01/1999,Australia,Sydney,Australia,Australia,Bat,322,220,184,188,Australia
-05/07/2001,England,Edgbaston,England,Australia,Field,294,576,164,0,Australia
-19/07/2001,England,Lord's,England,Australia,Field,187,401,227,14,Australia
-02/08/2001,England,Trent Bridge,England,England,Bat,185,190,162,158,Australia
-16/08/2001,England,Headingley,Australia,Australia,Bat,447,309,176,315,England
-23/08/2001,England,The Oval,Australia,Australia,Bat,641,432,184,0,Australia
-07/11/2002,Australia,Brisbane,Australia,England,Field,492,325,296,79,Australia
-21/11/2002,Australia,Adelaide,England,England,Bat,342,552,159,0,Australia
-29/11/2002,Australia,Perth,England,England,Bat,185,456,223,0,Australia
-26/12/2002,Australia,Melbourne,Australia,Australia,Bat,551,270,387,107,Australia
-02/01/2003,Australia,Sydney,England,England,Bat,362,363,452,226,England
-21/07/2005,England,Lord's,Australia,Australia,Bat,190,155,384,180,Australia
-04/08/2005,England,Edgbaston,England,Australia,Field,407,308,182,279,England
-11/08/2005,England,Old Trafford,England,England,Bat,444,302,280,371,draw
-25/08/2005,England,Trent Bridge,England,England,Bat,477,218,387,129,England
-08/09/2005,England,The Oval,England,England,Bat,373,367,335,4,draw
-23/11/2006,Australia,Brisbane,Australia,Australia,Bat,602,157,202,370,Australia
-01/12/2006,Australia,Adelaide,England,England,Bat,551,513,129,168,Australia
-14/12/2006,Australia,Perth,Australia,Australia,Bat,244,215,527,350,Australia
-26/12/2006,Australia,Melbourne,England,England,Bat,159,419,161,0,Australia
-02/01/2007,Australia,Sydney,England,England,Bat,291,393,147,46,Australia
-08/07/2009,England,Cardiff,England,England,Bat,435,674,252,0,draw
-16/07/2009,England,Lord's,England,England,Bat,425,215,311,406,England
-30/07/2009,England,Edgbaston,Australia,Australia,Bat,263,376,375,0,draw
-07/08/2009,England,Headingley,England,England,Bat,102,445,263,0,Australia
-20/08/2009,England,The Oval,England,England,Bat,332,160,373,348,England
-25/11/2010,Australia,Brisbane,England,England,Bat,260,481,517,107,draw
-03/12/2010,Australia,Adelaide,Australia,Australia,Bat,245,620,304,0,England
-16/12/2010,Australia,Perth,Australia,England,Field,268,187,309,123,Australia
-26/12/2010,Australia,Melbourne,Australia,England,Field,98,513,258,0,England
-03/01/2011,Australia,Sydney,Australia,Australia,Bat,280,644,281,0,England
-10/07/2013,England,Trent Bridge,England,England,Bat,215,280,375,296,England
-18/07/2013,England,Lord's,England,England,Bat,361,128,349,235,England
-01/08/2013,England,Old Trafford,Australia,Australia,Bat,527,368,172,37,draw
-09/08/2013,England,Chester-le-Street,England,England,Bat,238,270,330,224,England
-21/08/2013,England,The Oval,Australia,Australia,Bat,492,377,111,206,draw
-21/11/2013,Australia,Brisbane,Australia,Australia,Bat,295,136,401,179,Australia
-05/12/2013,Australia,Adelaide,Australia,Australia,Bat,570,172,132,312,Australia
-13/12/2013,Australia,Perth,Australia,Australia,Bat,385,251,369,353,Australia
-26/12/2013,Australia,Melbourne,England,Australia,Field,255,204,179,231,Australia
-03/01/2014,Australia,Sydney,Australia,England,Field,326,155,276,166,Australia
-08/07/2015,England,Cardiff,England,England,Bat,430,308,289,242,England
-16/07/2015,England,Lord's,Australia,Australia,Bat,566,312,254,103,Australia
-29/07/2015,England,Edgbaston,Australia,Australia,Bat,136,281,265,124,England
-06/08/2015,England,Trent Bridge,Australia,England,Field,60,391,253,0,England
-20/08/2015,England,The Oval,Australia,England,Field,481,149,286,0,Australia
-23/11/2017,Australia,Brisbane,England,England,Bat,302,328,195,173,Australia
-02/12/2017,Australia,Adelaide,Australia,England,Field,442,227,138,233,Australia
-14/12/2017,Australia,Perth,England,England,Bat,403,662,218,0,Australia
-26/12/2017,Australia,Melbourne,Australia,Australia,Bat,327,491,263,0,draw
-04/01/2018,Australia,Sydney,England,England,Bat,346,649,180,0,Australia
-01/08/2019,England,Edgbaston,Australia,Australia,Bat,284,374,487,146,Australia
-14/08/2019,England,Lord's,England,Australia,Field,258,250,258,154,draw
-22/08/2019,England,Headingley,Australia,England,Field,179,67,246,362,England
-04/09/2019,England,Old Trafford,Australia,Australia,Bat,497,301,186,197,Australia
-12/09/2019,England,The Oval,England,Australia,Field,294,225,329,263,England
-08/12/2021,Australia,Brisbane,England,England,Bat,147,425,297,20,Australia
-16/12/2021,Australia,Adelaide,Australia,Australia,Bat,473,236,230,192,Australia
-26/12/2021,Australia,Melbourne,England,Australia,Field,185,267,68,0,Australia
-05/01/2022,Australia,Sydney,Australia,Australia,Bat,416,294,265,270,draw
-14/01/2022,Australia,Hobart,Australia,England,Field,303,188,155,124,Australia
+﻿start,host,ground,team,toss,choice,inn1,inn2,inn3,inn4,winner,outcome,,,,
+27/11/1970,Australia,Brisbane,Australia,Australia,Bat,433,464,214,39,draw,draw,,,,
+11/12/1970,Australia,Perth,England,Australia,Field,397,440,287,100,draw,draw,,,,
+09/01/1971,Australia,Sydney,England,England,Bat,332,236,319,116,England,won,,,,
+21/01/1971,Australia,Melbourne,Australia,Australia,Bat,493,392,169,161,draw,draw,,,,
+29/01/1971,Australia,Adelaide,England,England,Bat,470,235,233,328,draw,draw,,,,
+12/02/1971,Australia,Sydney,England,Australia,Field,184,264,302,160,England,won,,,,
+08/06/1972,England,Old Trafford,England,England,Bat,249,142,234,252,England,won,,,,
+22/06/1972,England,Lord's,England,England,Bat,272,308,116,81,Australia,lost,,,,
+13/07/1972,England,Trent Bridge,Australia,England,Field,315,189,324,290,draw,draw,,,,
+27/07/1972,England,Headingley,Australia,Australia,Bat,146,263,136,21,England,lost,,,,
+10/08/1972,England,The Oval,England,England,Bat,284,399,356,242,Australia,lost,,,,
+29/11/1974,Australia,Brisbane,Australia,Australia,Bat,309,265,288,166,Australia,won,,,,
+13/12/1974,Australia,Perth,England,Australia,Field,208,481,293,23,Australia,lost,,,,
+26/12/1974,Australia,Melbourne,England,Australia,Field,242,241,244,238,draw,draw,,,,
+04/01/1975,Australia,Sydney,Australia,Australia,Bat,405,295,289,228,Australia,won,,,,
+25/01/1975,Australia,Adelaide,Australia,England,Field,304,172,272,241,Australia,won,,,,
+08/02/1975,Australia,Melbourne,Australia,Australia,Bat,152,529,373,0,England,lost,,,,
+10/07/1975,England,Edgbaston,Australia,England,Field,359,101,173,0,Australia,won,,,,
+31/07/1975,England,Lord's,England,England,Bat,315,268,436,329,draw,draw,,,,
+14/08/1975,England,Headingley,England,England,Bat,288,135,291,220,draw,draw,,,,
+28/08/1975,England,The Oval,Australia,Australia,Bat,532,191,538,40,draw,draw,,,,
+12/03/1977,Australia,Melbourne,Australia,England,Field,138,95,419,417,Australia,won,,,,
+16/06/1977,England,Lord's,England,England,Bat,216,296,305,114,draw,draw,,,,
+07/07/1977,England,Old Trafford,Australia,Australia,Bat,297,437,218,82,England,lost,,,,
+28/07/1977,England,Trent Bridge,Australia,Australia,Bat,243,364,309,189,England,lost,,,,
+11/08/1977,England,Headingley,England,England,Bat,436,103,248,0,England,won,,,,
+25/08/1977,England,The Oval,England,Australia,Field,214,385,57,0,draw,draw,,,,
+01/12/1978,Australia,Brisbane,Australia,Australia,Bat,116,286,339,170,England,lost,,,,
+15/12/1978,Australia,Perth,England,Australia,Field,309,190,208,161,England,won,,,,
+29/12/1978,Australia,Melbourne,Australia,Australia,Bat,258,143,167,179,Australia,won,,,,
+06/01/1979,Australia,Sydney,England,England,Bat,152,294,346,111,England,won,,,,
+27/01/1979,Australia,Adelaide,England,Australia,Field,169,164,360,160,England,won,,,,
+10/02/1979,Australia,Sydney,Australia,Australia,Bat,198,308,143,35,England,lost,,,,
+14/12/1979,Australia,Perth,Australia,England,Field,244,228,337,215,Australia,won,,,,
+04/01/1980,Australia,Sydney,England,Australia,Field,123,145,237,219,Australia,lost,,,,
+01/02/1980,Australia,Melbourne,England,England,Bat,306,477,273,103,Australia,lost,,,,
+28/08/1980,England,Lord's,Australia,Australia,Bat,385,205,189,344,draw,draw,,,,
+18/06/1981,England,Trent Bridge,England,Australia,Field,185,179,125,132,Australia,lost,,,,
+02/07/1981,England,Lord's,England,Australia,Field,311,345,265,90,draw,draw,,,,
+16/07/1981,England,Headingley,Australia,Australia,Bat,401,174,356,111,England,lost,,,,
+30/07/1981,England,Edgbaston,England,England,Bat,189,258,219,121,England,won,,,,
+13/08/1981,England,Old Trafford,England,England,Bat,231,130,404,402,England,won,,,,
+27/08/1981,England,The Oval,Australia,England,Field,352,314,344,261,draw,draw,,,,
+12/11/1982,Australia,Perth,England,Australia,Field,411,424,358,73,draw,draw,,,,
+26/11/1982,Australia,Brisbane,England,Australia,Field,219,341,309,190,Australia,lost,,,,
+10/12/1982,Australia,Adelaide,Australia,England,Field,438,216,304,83,Australia,won,,,,
+26/12/1982,Australia,Melbourne,England,Australia,Field,284,287,294,288,England,won,,,,
+02/01/1983,Australia,Sydney,Australia,Australia,Bat,314,237,382,314,draw,draw,,,,
+13/06/1985,England,Headingley,Australia,Australia,Bat,331,533,324,123,England,lost,,,,
+27/06/1985,England,Lord's,England,Australia,Field,290,425,261,127,Australia,lost,,,,
+11/07/1985,England,Trent Bridge,England,England,Bat,456,539,196,0,draw,draw,,,,
+01/08/1985,England,Old Trafford,Australia,England,Field,257,482,340,0,draw,draw,,,,
+15/08/1985,England,Edgbaston,Australia,England,Field,335,595,142,0,England,lost,,,,
+29/08/1985,England,The Oval,England,England,Bat,464,241,129,0,England,won,,,,
+14/11/1986,Australia,Brisbane,England,Australia,Field,456,248,282,77,England,won,,,,
+28/11/1986,Australia,Perth,England,England,Bat,592,401,199,197,draw,draw,,,,
+12/12/1986,Australia,Adelaide,Australia,Australia,Bat,514,455,201,39,draw,draw,,,,
+26/12/1986,Australia,Melbourne,Australia,England,Field,141,349,194,0,England,lost,,,,
+10/01/1987,Australia,Sydney,Australia,Australia,Bat,343,275,251,264,Australia,won,,,,
+29/01/1988,Australia,Sydney,England,England,Bat,425,214,328,0,draw,draw,,,,
+08/06/1989,England,Headingley,Australia,England,Field,601,430,230,191,Australia,won,,,,
+22/06/1989,England,Lord's,England,England,Bat,286,528,359,119,Australia,lost,,,,
+06/07/1989,England,Edgbaston,Australia,Australia,Bat,424,242,158,0,draw,draw,,,,
+27/07/1989,England,Old Trafford,England,England,Bat,260,447,264,81,Australia,lost,,,,
+10/08/1989,England,Trent Bridge,Australia,Australia,Bat,602,255,167,468,Australia,won,,,,
+24/08/1989,England,The Oval,Australia,Australia,Bat,468,285,219,143,draw,draw,,,,
+23/11/1990,Australia,Brisbane,England,Australia,Field,194,152,114,157,Australia,lost,,,,
+26/12/1990,Australia,Melbourne,England,England,Bat,352,306,150,197,Australia,lost,,,,
+04/01/1991,Australia,Sydney,Australia,Australia,Bat,518,469,205,113,draw,draw,,,,
+25/01/1991,Australia,Adelaide,Australia,Australia,Bat,386,229,314,335,draw,draw,,,,
+01/02/1991,Australia,Perth,England,England,Bat,244,307,182,120,Australia,lost,,,,
+03/06/1993,England,Old Trafford,Australia,England,Field,289,210,432,332,Australia,won,,,,
+17/06/1993,England,Lord's,Australia,Australia,Bat,632,205,365,0,Australia,won,,,,
+01/07/1993,England,Trent Bridge,England,England,Bat,321,373,422,202,draw,draw,,,,
+22/07/1993,England,Headingley,Australia,Australia,Bat,653,200,305,0,Australia,won,,,,
+05/08/1993,England,Edgbaston,England,England,Bat,276,408,251,120,Australia,lost,,,,
+19/08/1993,England,The Oval,England,England,Bat,380,303,313,229,England,won,,,,
+25/11/1994,Australia,Brisbane,Australia,Australia,Bat,426,167,248,323,Australia,won,,,,
+24/12/1994,Australia,Melbourne,Australia,England,Field,279,212,320,92,Australia,won,,,,
+01/01/1995,Australia,Sydney,England,England,Bat,309,116,255,344,draw,draw,,,,
+26/01/1995,Australia,Adelaide,England,England,Bat,353,419,328,156,England,won,,,,
+03/02/1995,Australia,Perth,Australia,Australia,Bat,402,295,345,123,Australia,won,,,,
+05/06/1997,England,Edgbaston,Australia,Australia,Bat,118,478,477,119,England,lost,,,,
+19/06/1997,England,Lord's,England,Australia,Field,77,213,266,0,draw,draw,,,,
+03/07/1997,England,Old Trafford,Australia,Australia,Bat,235,162,395,200,Australia,won,,,,
+24/07/1997,England,Headingley,England,Australia,Field,172,501,268,0,Australia,lost,,,,
+07/08/1997,England,Trent Bridge,Australia,Australia,Bat,427,313,336,186,Australia,won,,,,
+21/08/1997,England,The Oval,England,England,Bat,180,220,163,104,England,won,,,,
+20/11/1998,Australia,Brisbane,Australia,Australia,Bat,485,375,237,179,draw,draw,,,,
+28/11/1998,Australia,Perth,England,Australia,Field,112,240,191,64,Australia,lost,,,,
+11/12/1998,Australia,Adelaide,Australia,Australia,Bat,391,227,278,237,Australia,won,,,,
+26/12/1998,Australia,Melbourne,England,Australia,Field,270,340,244,162,England,won,,,,
+02/01/1999,Australia,Sydney,Australia,Australia,Bat,322,220,184,188,Australia,won,,,,
+05/07/2001,England,Edgbaston,England,Australia,Field,294,576,164,0,Australia,lost,,,,
+19/07/2001,England,Lord's,England,Australia,Field,187,401,227,14,Australia,lost,,,,
+02/08/2001,England,Trent Bridge,England,England,Bat,185,190,162,158,Australia,lost,,,,
+16/08/2001,England,Headingley,Australia,Australia,Bat,447,309,176,315,England,lost,,,,
+23/08/2001,England,The Oval,Australia,Australia,Bat,641,432,184,0,Australia,won,,,,
+07/11/2002,Australia,Brisbane,Australia,England,Field,492,325,296,79,Australia,won,,,,
+21/11/2002,Australia,Adelaide,England,England,Bat,342,552,159,0,Australia,lost,,,,
+29/11/2002,Australia,Perth,England,England,Bat,185,456,223,0,Australia,lost,,,,
+26/12/2002,Australia,Melbourne,Australia,Australia,Bat,551,270,387,107,Australia,won,,,,
+02/01/2003,Australia,Sydney,England,England,Bat,362,363,452,226,England,won,,,,
+21/07/2005,England,Lord's,Australia,Australia,Bat,190,155,384,180,Australia,won,,,,
+04/08/2005,England,Edgbaston,England,Australia,Field,407,308,182,279,England,won,,,,
+11/08/2005,England,Old Trafford,England,England,Bat,444,302,280,371,draw,draw,,,,
+25/08/2005,England,Trent Bridge,England,England,Bat,477,218,387,129,England,won,,,,
+08/09/2005,England,The Oval,England,England,Bat,373,367,335,4,draw,draw,,,,
+23/11/2006,Australia,Brisbane,Australia,Australia,Bat,602,157,202,370,Australia,won,,,,
+01/12/2006,Australia,Adelaide,England,England,Bat,551,513,129,168,Australia,lost,,,,
+14/12/2006,Australia,Perth,Australia,Australia,Bat,244,215,527,350,Australia,won,,,,
+26/12/2006,Australia,Melbourne,England,England,Bat,159,419,161,0,Australia,lost,,,,
+02/01/2007,Australia,Sydney,England,England,Bat,291,393,147,46,Australia,lost,,,,
+08/07/2009,England,Cardiff,England,England,Bat,435,674,252,0,draw,draw,,,,
+16/07/2009,England,Lord's,England,England,Bat,425,215,311,406,England,won,,,,
+30/07/2009,England,Edgbaston,Australia,Australia,Bat,263,376,375,0,draw,draw,,,,
+07/08/2009,England,Headingley,England,England,Bat,102,445,263,0,Australia,lost,,,,
+20/08/2009,England,The Oval,England,England,Bat,332,160,373,348,England,won,,,,
+25/11/2010,Australia,Brisbane,England,England,Bat,260,481,517,107,draw,draw,,,,
+03/12/2010,Australia,Adelaide,Australia,Australia,Bat,245,620,304,0,England,lost,,,,
+16/12/2010,Australia,Perth,Australia,England,Field,268,187,309,123,Australia,won,,,,
+26/12/2010,Australia,Melbourne,Australia,England,Field,98,513,258,0,England,lost,,,,
+03/01/2011,Australia,Sydney,Australia,Australia,Bat,280,644,281,0,England,lost,,,,
+10/07/2013,England,Trent Bridge,England,England,Bat,215,280,375,296,England,won,,,,
+18/07/2013,England,Lord's,England,England,Bat,361,128,349,235,England,won,,,,
+01/08/2013,England,Old Trafford,Australia,Australia,Bat,527,368,172,37,draw,draw,,,,
+09/08/2013,England,Chester-le-Street,England,England,Bat,238,270,330,224,England,won,,,,
+21/08/2013,England,The Oval,Australia,Australia,Bat,492,377,111,206,draw,draw,,,,
+21/11/2013,Australia,Brisbane,Australia,Australia,Bat,295,136,401,179,Australia,won,,,,
+05/12/2013,Australia,Adelaide,Australia,Australia,Bat,570,172,132,312,Australia,won,,,,
+13/12/2013,Australia,Perth,Australia,Australia,Bat,385,251,369,353,Australia,won,,,,
+26/12/2013,Australia,Melbourne,England,Australia,Field,255,204,179,231,Australia,lost,,,,
+03/01/2014,Australia,Sydney,Australia,England,Field,326,155,276,166,Australia,won,,,,
+08/07/2015,England,Cardiff,England,England,Bat,430,308,289,242,England,won,,,,
+16/07/2015,England,Lord's,Australia,Australia,Bat,566,312,254,103,Australia,won,,,,
+29/07/2015,England,Edgbaston,Australia,Australia,Bat,136,281,265,124,England,lost,,,,
+06/08/2015,England,Trent Bridge,Australia,England,Field,60,391,253,0,England,lost,,,,
+20/08/2015,England,The Oval,Australia,England,Field,481,149,286,0,Australia,won,,,,
+23/11/2017,Australia,Brisbane,England,England,Bat,302,328,195,173,Australia,lost,,,,
+02/12/2017,Australia,Adelaide,Australia,England,Field,442,227,138,233,Australia,won,,,,
+14/12/2017,Australia,Perth,England,England,Bat,403,662,218,0,Australia,lost,,,,
+26/12/2017,Australia,Melbourne,Australia,Australia,Bat,327,491,263,0,draw,draw,,,,
+04/01/2018,Australia,Sydney,England,England,Bat,346,649,180,0,Australia,lost,,,,
+01/08/2019,England,Edgbaston,Australia,Australia,Bat,284,374,487,146,Australia,won,,,,
+14/08/2019,England,Lord's,England,Australia,Field,258,250,258,154,draw,draw,,,,
+22/08/2019,England,Headingley,Australia,England,Field,179,67,246,362,England,lost,,,,
+04/09/2019,England,Old Trafford,Australia,Australia,Bat,497,301,186,197,Australia,won,,,,
+12/09/2019,England,The Oval,England,Australia,Field,294,225,329,263,England,won,,,,
+08/12/2021,Australia,Brisbane,England,England,Bat,147,425,297,20,Australia,lost,,,,
+16/12/2021,Australia,Adelaide,Australia,Australia,Bat,473,236,230,192,Australia,won,,,,
+26/12/2021,Australia,Melbourne,England,Australia,Field,185,267,68,0,Australia,lost,,,,
+05/01/2022,Australia,Sydney,Australia,Australia,Bat,416,294,265,270,draw,draw,,,,
+14/01/2022,Australia,Hobart,Australia,England,Field,303,188,155,124,Australia,won,,,,
