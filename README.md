@@ -18,6 +18,10 @@ Specifically, in this project you should:
 
 Note that this project is about simulation - you must synthesise a dataset. Some students may already have some real-world datasets in their own files. It is okay to base your synthesised dataset on these should you wish (please reference it if you do), but the main task is in this project is to create a synthesised dataset."
 
+## Limitations of Analysis
+
+- lack of declarations, also ties https://en.wikipedia.org/wiki/Result_(cricket)
+
 ## References
 
 Leamon, N. and Jones, B. (2021) _Hitting Against the Spin: How Cricket Really Works_. London: Little, Brown Book Group.
