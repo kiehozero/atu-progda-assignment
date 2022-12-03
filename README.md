@@ -20,7 +20,7 @@ Note that this project is about simulation - you must synthesise a dataset. Some
 
 ## Limitations of Analysis
 
-- lack of declaration information, also ties https://en.wikipedia.org/wiki/Result_(cricket)
+- lack of declaration information, also [ties](https://en.wikipedia.org/wiki/Result_(cricket))
 
 ## References
 
