@@ -2,8 +2,6 @@
 
 A repository for the dataset synthesis project in ATU Programming for Data Analytics 2022. I have listed here the project requirements given by the lecturer, as well as my referencing and the initial queries I ran. All of my explanations of the dataset are given in the [Jupyter Notebook](assignment.ipynb) that is contained within this repository.
 
-# TEST LINK ABOVE
-
 ## Task
 
 "For this project you must create a dataset by simulating a real-world phenomenon of your choosing. You may pick any phenomenon you wish - you might pick on that is of interest to you in your personal or professional life. Then, rather than collect data related to the phenomenon, you should model and synthesise such data using Python. We suggest you use the `numpy.random` package for this purpose.
