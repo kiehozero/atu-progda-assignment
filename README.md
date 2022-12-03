@@ -1,6 +1,7 @@
 # Programming for Data Analysis Assignment
 
-A repository for the dataset synthesis project in ATU Programming for Data Analytics 2022
+A repository for the dataset synthesis project in ATU Programming for Data Analytics 2022. I have listed here the project requirements given by the lecturer, as well as my referencing and the initial queries I ran. All of my explanations of the dataset are given in the [Jupyter Notebook](\assignment.ipnyb) that is contained within this repository. 
+# TEST LINK ABOVE
 
 ## Task
 
@@ -17,10 +18,6 @@ Specifically, in this project you should:
 4. Detail your research and implement the simulation in a Jupyter notebook - the dataset itself can simply be display in an output cell within the notebook.
 
 Note that this project is about simulation - you must synthesise a dataset. Some students may already have some real-world datasets in their own files. It is okay to base your synthesised dataset on these should you wish (please reference it if you do), but the main task is in this project is to create a synthesised dataset."
-
-## Limitations of Analysis
-
-- lack of declaration information, also [ties](https://en.wikipedia.org/wiki/Result_(cricket))
 
 ## References
 
