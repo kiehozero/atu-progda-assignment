@@ -20,18 +20,23 @@ Note that this project is about simulation - you must synthesise a dataset. Some
 
 ## Limitations of Analysis
 
-- lack of declarations, also ties https://en.wikipedia.org/wiki/Result_(cricket)
+- lack of declaration information, also ties https://en.wikipedia.org/wiki/Result_(cricket)
 
 ## References
 
+Booth, L. (2010) "Turning Points: Covered Pitches". Available at [CricInfo](https://www.espncricinfo.com/story/cricket-s-turning-points-covered-pitches-461172) (Accessed 3rd December, 2022).
+\
+Kumar, B. (2021) "Matplot lib multiple bar chart". Available at [Python Guides](https://pythonguides.com/matplotlib-multiple-bar-chart/) (Accessed 3rd December, 2022).
+\
 Leamon, N. and Jones, B. (2021) _Hitting Against the Spin: How Cricket Really Works_. London: Little, Brown Book Group.
 \
-Marylebone Cricket Club (2022) _The Laws of Cricket_. Available at  [MCC](https://www.lords.org/mcc/the-laws-of-cricket/covering-the-pitch) (Accessed 26th November, 2022).
-[NumPy documentation](https://numpy.org/doc/stable/reference/random/generator.html)
+Marylebone Cricket Club (2022) _The Laws of Cricket_. Available at [MCC](https://www.lords.org/mcc/the-laws-of-cricket/covering-the-pitch) (Accessed 26th November, 2022).
+\
+NumPy Documentation (2022) "Random Generator". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generator.html) (Accessed 15th November, 2022).
 \
 [Wikipedia](https://en.wikipedia.org/wiki/Probability_distribution#External_links) - change to whichever you use
 
-## Queries
+## Data Queries
 
 [Innings](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;host=1;host=2;opposition=1;opposition=2;orderby=start;size=200;spanmin1=1+Jan+1970;spanval1=span;team=1;team=2;template=results;tournament_type=2;type=team;view=innings)
 
