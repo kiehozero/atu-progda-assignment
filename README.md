@@ -22,6 +22,8 @@ Note that this project is about simulation - you must synthesise a dataset. Some
 
 Booth, L. (2010) "Turning Points: Covered Pitches". Available at [CricInfo](https://www.espncricinfo.com/story/cricket-s-turning-points-covered-pitches-461172) (Accessed 3rd December, 2022).
 \
+Datagy.io (2022) "Replace Values in a Pandas Dataframe". Available at [Datagy](https://datagy.io/pandas-replace-values/) (Accessed 4th December, 2022).
+\
 Ehantharajah, V. (2022) "England feel the funk in bid to overcome unforgiving 'Pindi pitch". Available at [CricInfo](https://www.espncricinfo.com/story/pakistan-vs-england-1st-test-rawalpindi-england-feel-the-funk-in-bid-to-overcome-unforgiving-pindi-pitch-1347874) (Accessed 2nd December, 2022).
 \
 Geeksforgeeks (2021) "Convert the data type of Pandas column to int." Available at [Geeksforgeeks](https://www.geeksforgeeks.org/convert-the-data-type-of-pandas-column-to-int/) (Accessed 4th December, 2022).
@@ -38,11 +40,11 @@ McLoughlin, I. (2022) "Distributions and Generating Random Numbers". Lecture not
 \
 NumPy Documentation (2022) "Random Generator". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generator.html) (Accessed 15th November, 2022).
 \
-Datagy.io (2022) "Replace Values in a Pandas Dataframe". Available at [Datagy](https://datagy.io/pandas-replace-values/) (Accessed 4th December, 2022).
+NumPy Documentation (2022) "numpy.random.Generator.triangular". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.triangular.html) (Accessed 23rd November, 2022).
+\
+Pandas Documentation (2022) "pandas.data_range". Available at [Pydata.org](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.date_range.html) (Accessed 4th December, 2022).
 \
 Wikipedia (2022, last edit) "English cricket team in Australia, 1979-80". Available at [Wikipedia](https://en.wikipedia.org/wiki/English_cricket_team_in_Australia_in_1979%E2%80%9380) (Accessed 30th November, 2022).
-\
-[Wikipedia](https://en.wikipedia.org/wiki/Probability_distribution#External_links) - change to whichever you use
 
 ## Data Queries
 
