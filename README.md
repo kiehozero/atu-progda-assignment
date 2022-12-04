@@ -22,7 +22,11 @@ Note that this project is about simulation - you must synthesise a dataset. Some
 
 Booth, L. (2010) "Turning Points: Covered Pitches". Available at [CricInfo](https://www.espncricinfo.com/story/cricket-s-turning-points-covered-pitches-461172) (Accessed 3rd December, 2022).
 \
+Ehantharajah, V. (2022) "England feel the funk in bid to overcome unforgiving 'Pindi pitch". Available at [CricInfo](https://www.espncricinfo.com/story/pakistan-vs-england-1st-test-rawalpindi-england-feel-the-funk-in-bid-to-overcome-unforgiving-pindi-pitch-1347874) (Accessed 2nd December, 2022).
+\
 Kumar, B. (2021) "Matplot lib multiple bar chart". Available at [Python Guides](https://pythonguides.com/matplotlib-multiple-bar-chart/) (Accessed 3rd December, 2022).
+\
+Lavalette, T. (2018) "Winning Isn't Everything in Five-Day Cricket, Draws Can Be Rewarding Too." Available at [Forbes](https://www.forbes.com/sites/tristanlavalette/2018/10/13/winning-isnt-everything-in-five-day-cricket-draws-can-be-rewarding-too/?sh=32a7340c71e9) (Accessed 1st December, 2022).
 \
 Leamon, N. and Jones, B. (2021) _Hitting Against the Spin: How Cricket Really Works_. London: Little, Brown Book Group.
 \
@@ -36,10 +40,10 @@ NumPy Documentation (2022) "Random Generator". Available at [NumPy.org](https://
 
 ## Data Queries
 
-[All Innings of Test Matches between England and Australia since 1st January, 1970](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;host=1;host=2;opposition=1;opposition=2;orderby=start;size=200;spanmin1=1+Jan+1970;spanval1=span;team=1;team=2;template=results;tournament_type=2;type=team;view=innings)
+[All Innings of Test Matches between England and Australia since 1st January, 1970](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;host=1;host=2;opposition=1;opposition=2;orderby=start;size=200;spanmin1=1+Jan+1970;spanval1=span;team=1;team=2;template=results;tournament_type=2;type=team;view=innings) (Accessed 20th November, 2022).
 
-[All Innings of Test Matches between England and Australia since 1st January, 1970, in which Australia won the toss](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;host=1;host=2;opposition=1;orderby=start;size=200;spanmin1=1+Jan+1970;spanval1=span;team=2;template=results;toss=1;tournament_type=2;type=team;view=innings)
+[All Innings of Test Matches between England and Australia since 1st January, 1970, in which Australia won the toss](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;host=1;host=2;opposition=1;orderby=start;size=200;spanmin1=1+Jan+1970;spanval1=span;team=2;template=results;toss=1;tournament_type=2;type=team;view=innings) (Accessed 25th November, 2022).
 
-[All Innings of Test Matches between England and Australia since 1st January, 1970, in which England won the toss](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;host=1;host=2;opposition=2;orderby=start;size=200;spanmin1=1+Jan+1970;spanval1=span;team=1;template=results;toss=1;tournament_type=2;type=team;view=innings)
+[All Innings of Test Matches between England and Australia since 1st January, 1970, in which England won the toss](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;host=1;host=2;opposition=2;orderby=start;size=200;spanmin1=1+Jan+1970;spanval1=span;team=1;template=results;toss=1;tournament_type=2;type=team;view=innings) (Accessed 25th November, 2022).
 
-[All Test Matches occurring in 1969](https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?class=1;id=1969;type=year)
+[All Test Matches occurring in 1969](https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?class=1;id=1969;type=year) (Accessed 29th November, 2022).
