@@ -36,15 +36,19 @@ Leamon, N. and Jones, B. (2021) _Hitting Against the Spin: How Cricket Really Wo
 \
 Marylebone Cricket Club (2022) _The Laws of Cricket_. Available at [MCC](https://www.lords.org/mcc/the-laws-of-cricket/) (Accessed 26th November, 2022).
 \
+McGinley, B. (2022) "Time Series". Lecture notebook for the Programming for Data Analysis module, Atlantic Technological University. Available, including my own modification, at [GitHub](https://github.com/kiehozero/atu-progda2022/tree/main/week7-time-series) (Accessed 26th November, 2022).
+\
 McLoughlin, I. (2022) "Distributions and Generating Random Numbers". Lecture notebook for the Fundamentals of Data Analysis module, Atlantic Technological University. Available, including my own modifications, at [GitHub](https://github.com/kiehozero/atu-fundda2022/tree/main/materials/week5) (Accessed 2nd November, 2022).
 \
 NumPy Documentation (2022) "Random Generator". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generator.html) (Accessed 15th November, 2022).
 \
-NumPy Documentation (2022) "numpy.random.Generator.multinomial". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.multinomial.html) (Accessed 4th December, 2022).
+NumPy Documentation (2022) "numpy.random.choice". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generated/numpy.random.choice.html) (Accessed 4th December, 2022).
 \
 NumPy Documentation (2022) "numpy.random.Generator.triangular". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.triangular.html) (Accessed 23rd November, 2022).
 \
 Pandas Documentation (2022) "pandas.data_range". Available at [Pydata.org](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.date_range.html) (Accessed 4th December, 2022).
+\
+PyNative (2021) "Python Weighted Random Choices". Available at [PyNative.com](https://pynative.com/python-weighted-random-choices-with-probability/) (Accessed 4th December, 2022).
 \
 Wikipedia (2022, last edit) "English cricket team in Australia, 1979-80". Available at [Wikipedia](https://en.wikipedia.org/wiki/English_cricket_team_in_Australia_in_1979%E2%80%9380) (Accessed 30th November, 2022).
 
