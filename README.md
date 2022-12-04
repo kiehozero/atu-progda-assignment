@@ -28,14 +28,18 @@ Leamon, N. and Jones, B. (2021) _Hitting Against the Spin: How Cricket Really Wo
 \
 Marylebone Cricket Club (2022) _The Laws of Cricket_. Available at [MCC](https://www.lords.org/mcc/the-laws-of-cricket/covering-the-pitch) (Accessed 26th November, 2022).
 \
+McLoughlin, I. (2022) "Distributions and Generating Random Numbers". Lecture notebook for the Fundamentals of Data Analysis module, Atlantic Technological University. Available, including my own modifications, at [GitHub](https://github.com/kiehozero/atu-fundda2022/tree/main/materials/week5) (Accessed 2nd November, 2022).
+\
 NumPy Documentation (2022) "Random Generator". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generator.html) (Accessed 15th November, 2022).
 \
 [Wikipedia](https://en.wikipedia.org/wiki/Probability_distribution#External_links) - change to whichever you use
 
 ## Data Queries
 
-[Innings](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;host=1;host=2;opposition=1;opposition=2;orderby=start;size=200;spanmin1=1+Jan+1970;spanval1=span;team=1;team=2;template=results;tournament_type=2;type=team;view=innings)
+[All Innings of Test Matches between England and Australia since 1st January, 1970](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;host=1;host=2;opposition=1;opposition=2;orderby=start;size=200;spanmin1=1+Jan+1970;spanval1=span;team=1;team=2;template=results;tournament_type=2;type=team;view=innings)
 
-[Australian tosses](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;host=1;host=2;opposition=1;orderby=start;size=200;spanmin1=1+Jan+1970;spanval1=span;team=2;template=results;toss=1;tournament_type=2;type=team;view=innings)
+[All Innings of Test Matches between England and Australia since 1st January, 1970, in which Australia won the toss](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;host=1;host=2;opposition=1;orderby=start;size=200;spanmin1=1+Jan+1970;spanval1=span;team=2;template=results;toss=1;tournament_type=2;type=team;view=innings)
 
-[English tosses](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;host=1;host=2;opposition=2;orderby=start;size=200;spanmin1=1+Jan+1970;spanval1=span;team=1;template=results;toss=1;tournament_type=2;type=team;view=innings)
+[All Innings of Test Matches between England and Australia since 1st January, 1970, in which England won the toss](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;host=1;host=2;opposition=2;orderby=start;size=200;spanmin1=1+Jan+1970;spanval1=span;team=1;template=results;toss=1;tournament_type=2;type=team;view=innings)
+
+[All Test Matches occurring in 1969](https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?class=1;id=1969;type=year)
