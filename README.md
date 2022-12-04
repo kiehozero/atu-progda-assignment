@@ -40,6 +40,8 @@ McLoughlin, I. (2022) "Distributions and Generating Random Numbers". Lecture not
 \
 NumPy Documentation (2022) "Random Generator". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generator.html) (Accessed 15th November, 2022).
 \
+NumPy Documentation (2022) "numpy.random.Generator.multinomial". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.multinomial.html) (Accessed 4th December, 2022).
+\
 NumPy Documentation (2022) "numpy.random.Generator.triangular". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.triangular.html) (Accessed 23rd November, 2022).
 \
 Pandas Documentation (2022) "pandas.data_range". Available at [Pydata.org](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.date_range.html) (Accessed 4th December, 2022).
