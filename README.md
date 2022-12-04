@@ -36,6 +36,8 @@ McLoughlin, I. (2022) "Distributions and Generating Random Numbers". Lecture not
 \
 NumPy Documentation (2022) "Random Generator". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generator.html) (Accessed 15th November, 2022).
 \
+[Wikipedia] (2022, last edit) "English cricket team in Australia, 1979-80". Available at [Wikipedia](https://en.wikipedia.org/wiki/English_cricket_team_in_Australia_in_1979%E2%80%9380) (Accessed 30th November, 2022).
+\
 [Wikipedia](https://en.wikipedia.org/wiki/Probability_distribution#External_links) - change to whichever you use
 
 ## Data Queries
