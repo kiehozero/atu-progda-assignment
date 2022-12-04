@@ -24,6 +24,8 @@ Booth, L. (2010) "Turning Points: Covered Pitches". Available at [CricInfo](http
 \
 Ehantharajah, V. (2022) "England feel the funk in bid to overcome unforgiving 'Pindi pitch". Available at [CricInfo](https://www.espncricinfo.com/story/pakistan-vs-england-1st-test-rawalpindi-england-feel-the-funk-in-bid-to-overcome-unforgiving-pindi-pitch-1347874) (Accessed 2nd December, 2022).
 \
+Geeksforgeeks (2021) "Convert the data type of Pandas column to int." Available at [Geeksforgeeks](https://www.geeksforgeeks.org/convert-the-data-type-of-pandas-column-to-int/) (Accessed 4th December, 2022).
+\
 Kumar, B. (2021) "Matplot lib multiple bar chart". Available at [Python Guides](https://pythonguides.com/matplotlib-multiple-bar-chart/) (Accessed 3rd December, 2022).
 \
 Lavalette, T. (2018) "Winning Isn't Everything in Five-Day Cricket, Draws Can Be Rewarding Too." Available at [Forbes](https://www.forbes.com/sites/tristanlavalette/2018/10/13/winning-isnt-everything-in-five-day-cricket-draws-can-be-rewarding-too/?sh=32a7340c71e9) (Accessed 1st December, 2022).
@@ -36,7 +38,9 @@ McLoughlin, I. (2022) "Distributions and Generating Random Numbers". Lecture not
 \
 NumPy Documentation (2022) "Random Generator". Available at [NumPy.org](https://numpy.org/doc/stable/reference/random/generator.html) (Accessed 15th November, 2022).
 \
-[Wikipedia] (2022, last edit) "English cricket team in Australia, 1979-80". Available at [Wikipedia](https://en.wikipedia.org/wiki/English_cricket_team_in_Australia_in_1979%E2%80%9380) (Accessed 30th November, 2022).
+Datagy.io (2022) "Replace Values in a Pandas Dataframe". Available at [Datagy](https://datagy.io/pandas-replace-values/) (Accessed 4th December, 2022).
+\
+Wikipedia (2022, last edit) "English cricket team in Australia, 1979-80". Available at [Wikipedia](https://en.wikipedia.org/wiki/English_cricket_team_in_Australia_in_1979%E2%80%9380) (Accessed 30th November, 2022).
 \
 [Wikipedia](https://en.wikipedia.org/wiki/Probability_distribution#External_links) - change to whichever you use
 
