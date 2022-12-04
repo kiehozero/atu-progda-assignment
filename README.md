@@ -32,7 +32,7 @@ Geeksforgeeks (2021) "Convert the data type of Pandas column to int." Available 
 \
 Kumar, B. (2021) "Matplot lib multiple bar chart". Available at [Python Guides](https://pythonguides.com/matplotlib-multiple-bar-chart/) (Accessed 3rd December, 2022).
 \
-Lavalette, T. (2018) "Winning Isn't Everything in Five-Day Cricket, Draws Can Be Rewarding Too." Available at [Forbes](https://www.forbes.com/sites/tristanlavalette/2018/10/13/winning-isnt-everything-in-five-day-cricket-draws-can-be-rewarding-too/?sh=32a7340c71e9) (Accessed 1st December, 2022).
+Lavalette, T. (2018) "Winning isn't Everything in Five-Day Cricket, Draws Can Be Rewarding Too." Available at [Forbes](https://www.forbes.com/sites/tristanlavalette/2018/10/13/winning-isnt-everything-in-five-day-cricket-draws-can-be-rewarding-too/?sh=32a7340c71e9) (Accessed 1st December, 2022).
 \
 Leamon, N. and Jones, B. (2021) _Hitting Against the Spin: How Cricket Really Works_. London: Little, Brown Book Group.
 \
