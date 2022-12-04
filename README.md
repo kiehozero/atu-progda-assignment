@@ -30,7 +30,7 @@ Lavalette, T. (2018) "Winning Isn't Everything in Five-Day Cricket, Draws Can Be
 \
 Leamon, N. and Jones, B. (2021) _Hitting Against the Spin: How Cricket Really Works_. London: Little, Brown Book Group.
 \
-Marylebone Cricket Club (2022) _The Laws of Cricket_. Available at [MCC](https://www.lords.org/mcc/the-laws-of-cricket/covering-the-pitch) (Accessed 26th November, 2022).
+Marylebone Cricket Club (2022) _The Laws of Cricket_. Available at [MCC](https://www.lords.org/mcc/the-laws-of-cricket/) (Accessed 26th November, 2022).
 \
 McLoughlin, I. (2022) "Distributions and Generating Random Numbers". Lecture notebook for the Fundamentals of Data Analysis module, Atlantic Technological University. Available, including my own modifications, at [GitHub](https://github.com/kiehozero/atu-fundda2022/tree/main/materials/week5) (Accessed 2nd November, 2022).
 \
