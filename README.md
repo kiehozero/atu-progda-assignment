@@ -24,6 +24,8 @@ Booth, L. (2010) "Turning Points: Covered Pitches". Available at [CricInfo](http
 \
 Datagy.io (2022) "Replace Values in a Pandas Dataframe". Available at [Datagy](https://datagy.io/pandas-replace-values/) (Accessed 4th December, 2022).
 \
+Data to Fish (2022) "Five Ways to Apply an IF Condition in Pandas DataFrame". Available at [Data to Fish](https://datatofish.com/if-condition-in-pandas-dataframe/) (Accessed 4th December, 2022).
+\
 Ehantharajah, V. (2022) "England feel the funk in bid to overcome unforgiving 'Pindi pitch". Available at [CricInfo](https://www.espncricinfo.com/story/pakistan-vs-england-1st-test-rawalpindi-england-feel-the-funk-in-bid-to-overcome-unforgiving-pindi-pitch-1347874) (Accessed 2nd December, 2022).
 \
 Geeksforgeeks (2021) "Convert the data type of Pandas column to int." Available at [Geeksforgeeks](https://www.geeksforgeeks.org/convert-the-data-type-of-pandas-column-to-int/) (Accessed 4th December, 2022).
